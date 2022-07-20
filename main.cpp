@@ -826,11 +826,15 @@ void display()
 
 	setFont(GLUT_BITMAP_TIMES_ROMAN_24);
     glColor3f(0.0,1.0,1.0);
-	drawstring(-2,1,0,"Gourav Dubey (USN : 1BY19CS048)");
+	drawstring(-2,1,0,"Nivedita Jaiswal (USN : 1BY19CS096)");
 
 	setFont(GLUT_BITMAP_TIMES_ROMAN_24);
     glColor3f(0.0,1.0,1.0);
-	drawstring(-2,.5,0,"Arya Bharti (USN : 1BY19CS021)");
+	drawstring(-2,.5,0,"Sahil Kumar Samal (USN : 1BY19CS131)");
+	
+	setFont(GLUT_BITMAP_TIMES_ROMAN_24);
+    glColor3f(0.0,1.0,1.0);
+	drawstring(-2,.5,0,"Rishav Visen (USN : 1BY19CS118)");
 
 
 	drawstring(-2,-0.5,0,"Press --> s  to Start");
